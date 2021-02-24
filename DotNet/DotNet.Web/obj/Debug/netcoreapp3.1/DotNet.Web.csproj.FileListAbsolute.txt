@@ -263,3 +263,4 @@ D:\STUDIA\aspdotnet\Laby\ASP.NET-WSEI\DotNet\DotNet.Web\bin\Debug\netcoreapp3.1\
 D:\STUDIA\aspdotnet\Laby\ASP.NET-WSEI\DotNet\DotNet.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\STUDIA\aspdotnet\Laby\ASP.NET-WSEI\DotNet\DotNet.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\STUDIA\aspdotnet\Laby\ASP.NET-WSEI\DotNet\DotNet.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\STUDIA\aspdotnet\Laby\ASP.NET-WSEI\DotNet\DotNet.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\ItemsList\Index.cshtml.g.cs
